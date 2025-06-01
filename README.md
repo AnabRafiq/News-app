@@ -17,7 +17,7 @@ A responsive and dynamic **React News App** that fetches and displays top headli
 
 ## 📸 Screenshots
 
-> 📷 Add your screenshots here by uploading them to GitHub issues or any image hosting site.
+>
 
 ![News Hub Screenshot](https://github.com/user-attachments/assets/087b0dc4-0615-4973-a64f-b0aabc4ec50f)
 
