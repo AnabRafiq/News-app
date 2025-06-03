@@ -49,4 +49,4 @@ A responsive and dynamic **React News App** that fetches and displays top headli
    ```bash
    git clone https://github.com/your-username/news-app.git
 Author 
-Anab Rafiq
+Anab Rafiq (React devloper )
